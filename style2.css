@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+
+h1{
+    text-align: center;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+.column{
+    
+    float: left;
+    width: 50%;
+    height: 300px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+li a{
+    color: orange;
+}
+a{
+    color: orange;
+}
+.ex{
+    border-style: solid;
+    border-color: orange;
+    color: orange;
+}
